@@ -8,6 +8,7 @@ public class Carre extends Rectangle {
 	}
 
 	
+	
 	public Carre(Point point, int cote, Couleur c) {
 
 		super(point, cote, cote, c);
