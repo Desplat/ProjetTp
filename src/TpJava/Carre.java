@@ -16,6 +16,7 @@ public class Carre extends Rectangle {
 	protected String getType() {
 
 		return "CARRE";
+		
 	}
 
 	/*
